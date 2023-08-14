@@ -4,7 +4,7 @@ Welcome to the Apple Catalog Store Backend API documentation. This API serves as
 
 ## Base URL
 
-The base URL for accessing the API is https://apple-catalog-api.onrender.com/. All endpoints should be appended to this base URL.
+The base URL for accessing the API is https://apple-store-catalog-api.onrender.com/. All endpoints should be appended to this base URL.
 
 ## Project Scripts
 
